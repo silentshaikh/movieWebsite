@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movieWebsite/static/css/main.ece916d1.css",
+    "main.js": "/movieWebsite/static/js/main.80a4e7ee.js",
+    "static/js/787.80ff975f.chunk.js": "/movieWebsite/static/js/787.80ff975f.chunk.js",
+    "static/media/home.jpg": "/movieWebsite/static/media/home.d5e8ba530a4f7f5ff552.jpg",
+    "static/media/1712075980.mp4": "/movieWebsite/static/media/1712075980.208fb34c477000ec36f2.mp4",
+    "static/media/login.jpg": "/movieWebsite/static/media/login.1a5678025d58f1a441b8.jpg",
+    "static/media/couple-embracing-looking-projector-cinema_7502-9331.avif": "/movieWebsite/static/media/couple-embracing-looking-projector-cinema_7502-9331.8c5df0328fc4117743ec.avif",
+    "static/media/peter.jpeg": "/movieWebsite/static/media/peter.1ce2c82ec7147736d1f4.jpeg",
+    "static/media/logo.svg": "/movieWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/movieWebsite/index.html",
+    "main.ece916d1.css.map": "/movieWebsite/static/css/main.ece916d1.css.map",
+    "main.80a4e7ee.js.map": "/movieWebsite/static/js/main.80a4e7ee.js.map",
+    "787.80ff975f.chunk.js.map": "/movieWebsite/static/js/787.80ff975f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ece916d1.css",
+    "static/js/main.80a4e7ee.js"
+  ]
+}
