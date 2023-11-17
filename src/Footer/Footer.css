@@ -1,0 +1,68 @@
+footer{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), #e14444);
+}
+.footOne{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 20px;
+    /* background-color: #2d3436; */
+}
+.boxOne p{
+    width: 40vw;
+}
+.boxOne h1{
+    color: crimson;
+}
+.boxThree h2{
+    color: crimson;
+}
+.ins{
+    font-size: 3rem;
+    color: palevioletred;
+    padding: 5px;
+    cursor: pointer;
+}
+.you{
+    font-size: 3rem;
+    color: crimson;
+    padding: 5px;
+    cursor: pointer;
+}
+.fac{
+    font-size: 3rem;
+    color: #0fbcf9;
+    padding: 5px;
+    cursor: pointer;
+}
+@media only screen and (max-width:803px) {
+    .boxOne p{
+        width: 60vw;
+    }
+}
+@media only screen and (max-width:667px) {
+    .boxOne p{
+        width: 65vw;
+    }
+}
+@media only screen and (max-width:630px) {
+    .boxOne p{
+        width: 70vw;
+    }
+}
+@media only screen and (max-width:588px) {
+    .boxOne p{
+        width: 50vw;
+    }
+}
+@media only screen and (max-width:422px) {
+    .footOne{
+        flex-direction: column;
+    }
+    .boxOne{
+        padding-bottom: 10px;
+    }
+    .boxOne p{
+        width: 75vw;
+    }
+}

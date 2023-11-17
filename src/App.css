@@ -1,0 +1,18 @@
+.errorpage{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: #fff;
+}
+.errorpage h1{
+    font-size: 3rem;
+}
+.errorpage button{
+    padding: 15px 30px;
+    border-radius: 25px;
+    background-color: crimson;
+    cursor: pointer;
+}

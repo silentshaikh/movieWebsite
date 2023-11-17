@@ -1,0 +1,84 @@
+.movieCont{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: black;
+    padding: 20px 0;
+}
+.movieCard{
+    border-radius: 5px;
+    position: relative;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 5px 0;
+}
+.movieCard img{
+    width: 320px;
+    border-radius: 5px;
+}
+.mtitle{
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    background-color: #0000;
+    z-index: 1;
+    backdrop-filter: blur(20px);
+    padding:0 12px 25px 11px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #fff;
+}
+.mtitle h2{
+    padding: 10px 0 20px 0;
+}
+.gen{
+    font-size: .8rem;
+    padding-top: 7px ;
+    text-transform: capitalize;
+}
+.inpCont{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.inpCont h2{
+    color: crimson;
+}
+.inpCont input{
+    padding: 15px 90px;
+    border-radius: 10px;
+    outline: none;
+}
+.detCont{
+background-color: black;
+    height: 100vh;
+    padding-top: 60px;
+}
+.movieDetal{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: #ffff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    width: 60vw;
+    padding: 10px;
+    margin: auto;
+}
+.details{
+    margin-left: 70px;
+}
+.details h1{
+    font-size: 2.3rem;
+}
+.box{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+}
