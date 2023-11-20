@@ -82,3 +82,8 @@ background-color: black;
     background-color: black;
     color: #fff;
 }
+@media only screen and (max-width:360px){
+    .inpCont input{
+        width: 100%;
+    }
+}
