@@ -6,8 +6,7 @@ function Error() {
   return (
     <>
         <section className='errorpage'>
-          <h1>404</h1>
-            <h1>Error</h1>
+            <h1>404 Error</h1>
             <button onClick={() => errNavig('/')}>Go Back</button>
         </section>
     </>
